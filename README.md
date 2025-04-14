@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div>
     <a href="https://beacons.ai/RebecaSantosb">
-        <img heigtht="180cm" src="https://github-readme-stats.vercel.app/api?username=RebecaSantosb&show_icons=true&theme=tokyonight&include_allcomits=true&count_private=true">
+        <img heigtht="180cm" src="https://github-readme-stats.vercel.app/api?username=RebecaSantosb&show_icons=true&theme=tokyonight&include_allcomits=true&count_private=true"><br>
         <img heigtht="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaSantosb&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
